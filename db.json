@@ -1,4 +1,6 @@
 {
-  "Greeting":"Hello World"
+  "Greetings":{
+    "Greeting1":"Hello World"
+  }
 }
 
